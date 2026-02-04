@@ -1,53 +1,51 @@
-# Credit Card Customer Analytics Dashboard | Power BI
+# Credit Card Transaction Dashboard | Power BI
 
-This **Credit Card Customer Analytics Dashboard** is an advanced Power BI solution designed to analyze customer behavior, revenue trends, and financial performance across different demographic and income groups. It helps banks and financial institutions understand how customers use credit cards and where the most profitable segments lie.
+This **Credit Card Transaction Dashboard** is a powerful Power BI solution designed to analyze credit card revenue, transaction volumes, and customer spending behavior across multiple segments. It enables financial institutions to track card performance, usage patterns, and profitability in a single interactive reporting platform.
 
 ---
 
 ## What this dashboard delivers
 
-This dashboard provides a **comprehensive view of credit card customer performance** by combining revenue, interest, income, and transaction data into one interactive reporting system.
+This dashboard provides a **complete view of credit card transaction activity** by combining revenue, interest, fees, and transaction volume data into one centralized analytical system.
 
 It enables users to:
 
-- Track total revenue, interest, and income  
-- Monitor customer spending trends over time  
-- Analyze performance by gender, age, income, and location  
-- Identify high-value customer segments  
-- Support strategic decision-making for marketing and risk management  
+- Track total revenue, interest, and transaction volume  
+- Monitor quarterly performance trends  
+- Analyze spending behavior by payment method, category, and customer type  
+- Identify high-value customer and card segments  
+- Support strategic decision-making in financial operations  
 
 ---
 
 ## Key Performance Indicators (KPIs)
 
-The dashboard highlights key financial and customer metrics such as:
+The dashboard highlights key financial and operational metrics such as:
 
 - **Total Revenue**  
+- **Total Transaction Amount**  
 - **Total Interest Earned**  
-- **Total Income**  
-- **Average Customer Satisfaction Score (CSS)**  
+- **Total Transaction Count**
 
-These KPIs give leadership an instant snapshot of business performance.
+These KPIs provide an instant overview of business performance.
 
 ---
 
 ## Key Visual Insights
 
-### Revenue & Trend Analysis
-- **Revenue by Year, Quarter, Month & Gender** shows how male and female customers contribute to revenue over time.
+### Revenue & Transaction Trends
+- **Revenue & Transaction Volume by Quarter** shows how business performance changes across Q1–Q4.
 
-### Demographic Insights
-- **Revenue by Age Group** identifies the most profitable age segments.  
-- **Revenue by Marital Status** shows how relationship status impacts spending.  
-- **Revenue by Education Level** reveals the influence of education on income and spending behavior.
+### Card & Payment Behavior
+- **Revenue by Card Category** compares Blue, Silver, Gold, and Platinum cards.  
+- **Revenue by Use Type (Swipe, Chip, Online)** highlights how customers prefer to transact.
 
-### Customer & Financial Segmentation
-- **Revenue by Income Group** highlights high, medium, and low income customers.  
-- **Revenue by Dependent Count** shows how family size affects spending.  
-- **Revenue by Customer Job** identifies high-value professions such as businessmen, government employees, and professionals.
+### Customer & Demographic Insights
+- **Revenue by Customer Job** identifies the most profitable professions.  
+- **Revenue by Education Level** shows how education impacts spending patterns.
 
-### Geographic Insights
-- **Revenue by Top States** shows which states generate the highest credit card revenue.
+### Spending Pattern Analysis
+- **Revenue by Expenditure Type** reveals where customers spend the most (bills, food, fuel, travel, etc.).
 
 ---
 
@@ -56,10 +54,10 @@ These KPIs give leadership an instant snapshot of business performance.
 The dashboard includes slicers for:
 - **Quarter Selection (Q1–Q4)**  
 - **Week Start Date**  
+- **Gender (Male/Female)**  
 - **Income Group (Low, Medium, High)**  
-- **Gender**
 
-These allow users to drill down and explore specific customer segments.
+These allow users to explore specific customer segments and time periods.
 
 ---
 
@@ -67,18 +65,18 @@ These allow users to drill down and explore specific customer segments.
 
 This dashboard helps financial institutions:
 
-- Identify profitable customer segments  
-- Improve targeted marketing strategies  
-- Optimize credit policies and risk assessment  
-- Increase revenue through data-driven insights  
-- Enhance customer experience and retention  
+- Improve customer segmentation and targeting  
+- Optimize credit card product strategies  
+- Track revenue and transaction performance  
+- Identify high-usage channels and customer groups  
+- Enable data-driven financial decision-making  
 
 ---
 
 ## Ideal For
 
 - Banks & Financial Institutions  
-- Credit Card & Risk Teams  
-- Marketing & Customer Analytics Teams  
+- Credit Card & Payment Teams  
+- Finance & Risk Management Teams  
 - Data Analysts  
 - Business Intelligence Professionals  
